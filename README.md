@@ -1,1 +1,1 @@
-# X-Ray-Image-Brain-Tumor-Classifications-using-CNN-Architecture
+# X Ray Image Brain Tumor Classifications using CNN Architecture
